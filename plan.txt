@@ -1,0 +1,9 @@
+1. Logar com sucesso no SIGAA
+
+2. Criar dicionário de matérias no formato:
+
+{
+    nome,
+    local,
+    horários
+}

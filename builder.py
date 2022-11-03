@@ -1,0 +1,2 @@
+def parseTime(timeString):
+    days = ''
