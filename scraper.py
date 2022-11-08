@@ -16,6 +16,6 @@ def getCourses(document):
                 times = info.find_next_sibling()
                 if (times):
                     time = times.text.split()
-        courses[name] = {(local, time[0])}
+        courses[name] = (local, time[0])
         t_start = t_start.nextSibling
     return courses
