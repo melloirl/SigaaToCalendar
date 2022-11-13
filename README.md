@@ -6,7 +6,7 @@
 
 Uma aplicação bastante utilizada com esse intuito é o Google Calendar (ou Google Agenda). No entanto, criar eventos manualmente e configura-los para atender cada uma das matérias pode se tornar uma tarefa repetitiva e um desperdício de tempo.
 
-Com isso em mente, Sigaa to Calendar visa automatizar o processo de criação de eventos para todas as suas matérias de maneira completamente automática.
+Com isso em mente, Sigaa to Calendar visa facilitar o processo de criação de eventos para todas as suas matérias de maneira completamente automática.
 
 ## Como funciona o Sigaa to Calendar?
 A versão disponibilizada nesse repositório é um script em Python escrito de maneira didática de forma que seja fácil e transparente entender o que o programa faz a cada passo. Como não há uma API oficial que permita troca de informações com o SIGAA, o projeto implementa um web scraper que realiza o login e coleta da página principal somente as informações relevantes para a criação dos eventos (e nada mais). Em seguida, os eventos são formatados e passados para a API do Google Calendar para que sejam criados automaticamente em sua agenda.
