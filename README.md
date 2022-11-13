@@ -76,7 +76,7 @@ O andamento do script será mostrado no terminal juntamente de um link para visu
 
 
 ## Transparência
-Como mencionado acima, não há meio de comunicação oficial com a plataforma SIGAA até o presente momento. Por essa razão, para que os dados do aluno sejam obtidos é necessário que o usuário preencha as próprias informações através de um arquivo .env. Em momento algum esses dados são armazenados ou transmitidos a terceiros durante a execução do script. O código é aberto e exposto para que possam se verificar essa informações.
+Como mencionado acima, não há meio de comunicação oficial com a plataforma SIGAA até o presente momento. Por essa razão, para que os dados do aluno sejam obtidos é necessário que o usuário preencha as próprias informações através de um arquivo .env. Em momento algum esses dados são armazenados ou transmitidos a terceiros durante a execução do script. O código é aberto e exposto para que possam se verificar essas informações.
 
 <div>
 <img src="https://img.shields.io/github/issues/melloirl/SigaaToCalendar.svg">
